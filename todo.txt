@@ -1,0 +1,12 @@
+1 : Learnt about agile methodology. The Agile methodology is a popular approach to project management and software development that emphasizes flexibility, collaboration, and customer satisfaction. 
+
+Here are the key elements and principles of Agile:
+Core Principles
+Customer Satisfaction: Deliver valuable, working software quickly and continuously to meet the needs of the customer.
+Embrace Change, 
+Frequent Delivery,
+Collaboration 
+
+2 : Completed the task for github, created a branch, then a file profile.md in that branch, created a pull request and merged the request.
+
+3 : Learning git commands
